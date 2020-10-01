@@ -1,0 +1,6 @@
+node_modules
+<<<<<<< HEAD
+*.log
+=======
+*.log
+>>>>>>> 32fc4cd7895faba1de564984c97a66e0c1ef653e

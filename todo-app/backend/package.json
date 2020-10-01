@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/loader.js",
+  "scripts": {
+<<<<<<< HEAD
+    "dev": "nodemon", 
+=======
+    "dev": "nodemon",
+>>>>>>> 32fc4cd7895faba1de564984c97a66e0c1ef653e
+    "production": "pm2 start src/loader.js --name todo-app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+=======
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+>>>>>>> 32fc4cd7895faba1de564984c97a66e0c1ef653e
+    "mongoose": "4.7.0",
+    "node-restful": "0.2.5",
+    "pm2": "2.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  }
+}
